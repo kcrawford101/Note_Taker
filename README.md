@@ -2,7 +2,7 @@
   ## Description 
     This is a note taker application that uses express.js
 
-    [Link to deployed Heroku app](#https://fathomless-dawn-48582.herokuapp.com/)
+    [Link to deployed Heroku app]: https://fathomless-dawn-48582.herokuapp.com
 
   ## Table of Content 
    1. [Description](#Description)
@@ -22,7 +22,7 @@
   
   ## Screenshot
 
-  ![Note taker screenshot](Assets\Note_Taker.JPG)
+  ![Note taker screenshot](https://github.com/kcrawford101/Note_Taker/blob/main/Assets/Note_Taker.JPG)
 
   ## Test 
   n/a
